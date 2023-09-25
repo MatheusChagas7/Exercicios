@@ -1,13 +1,13 @@
 # Otimização de sistemas  - Exercício 01 - Fazendas
 
-Faça o modelo matemático para o seguinte problema:
-uma cooperativa possui 3 fazendas.
-• A produção de cada fazenda depende da área e da água.
-• 3 culturas em cada fazenda: milho, arroz e feijão.
-• Existe limites de área plantada para cultura.
-• Para evitar concorrência entre os cooperados, acertou-se que a proporção de área seja a mesma.
-• Determine a área plantada de cada cultura em cada fazenda de modo a otimizar o lucro da
-cooperativa.
+<p>Faça o modelo matemático para o seguinte problema:</p>
+<p>uma cooperativa possui 3 fazendas.</p>
+<p>• A produção de cada fazenda depende da área e da água.</p>
+<p>• 3 culturas em cada fazenda: milho, arroz e feijão.</p>
+<p>• Existe limites de área plantada para cultura.</p>
+<p>• Para evitar concorrência entre os cooperados, acertou-se que a proporção de área seja a mesma.</p>
+<p>• Determine a área plantada de cada cultura em cada fazenda de modo a otimizar o lucro da cooperativa.</p>
+
 
 Tabela 1: área e água
 Fazenda | Área(acres) |  Água(l)
