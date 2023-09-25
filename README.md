@@ -10,10 +10,10 @@
 
 
 <p>Tabela 1: área e água</p>
-<p>Fazenda | Área(acres) |  Água(l)</p>
-<p>1       |    400      |  1800</p>
-<p>2       |    650      |  2200</p>
-<p>3       |    350      |  950</p>
+<p>Fazenda-|-Área(acres)-|--Água(l)</p>
+<p>1-------|-----400-----|--1800</p>
+<p>2-------|-----650-----|--2200</p>
+<p>3-------|-----350-----|--950</p>
 
 <p>Tabela 2: cultura</p>
 <p>Cultura | Área Máx. | Água(l/acre) | Lucro(por acre)</p>
